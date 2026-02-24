@@ -2,8 +2,6 @@
 
 This project implements a **Slice-Aware Vision Transformer (SE-ViT)** to classify Alzheimer's Disease progression using 3D MRI data. We introduce a novel combination of Squeeze-and-Excitation (SE) modules and Vision Transformers to rank the most informative axial slices and perform binary, multi-class, and hierarchical classification.
 
-> 🔗 **GitHub Link :** [https://github.com/yourusername/se-vit-alzheimers](https://github.com/UmairAmir/Alzheimer-Detection-23-)
-
 ---
 
 ## 📂 Project Files
